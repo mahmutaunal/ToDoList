@@ -56,13 +56,15 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="end"
-                    android:text="Set Due Date" />
+                    android:text="Set Due Date"
+                    android:visibility="gone" />
 
                 <com.google.android.material.imageview.ShapeableImageView
                     android:id="@+id/task_due_date_imageView"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@drawable/ic_date" />
+                    android:src="@drawable/ic_date"
+                    android:visibility="gone" />
 
             </LinearLayout>
 
