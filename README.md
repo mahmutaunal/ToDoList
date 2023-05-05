@@ -8,8 +8,9 @@ No registration is required to use the application.
 
 ## About
 
-You can easily create and update your to-do list and mark it as complete.
-You can also mark your tasks as priority and sort them by priority.
+You can easily create and update your to-do list and mark it as complete. And you can delete completed tasks. You can also hide completed tasks.
+
+You can also mark your tasks as priority and sort them by priority. And you can search for tasks.
 
 ## Features
 
