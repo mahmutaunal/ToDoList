@@ -10,7 +10,7 @@ No registration is required to use the application.
 
 You can easily create and update your to-do list and mark it as complete. And you can delete completed tasks. You can also hide completed tasks.
 
-You can also mark your tasks as priority and sort them by priority. And you can search for tasks.
+You can also mark your tasks as priority and sort them by priority.
 
 ## Features
 
@@ -20,6 +20,7 @@ You can also mark your tasks as priority and sort them by priority. And you can 
 - DataStore
 - Coroutines
 - Flow
+- Search
 
 ## Screenshots
 
